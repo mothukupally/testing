@@ -1,3 +1,3 @@
 # testing
-description of testing repository this is additona; content
+description of testing repository this is additonal content
 
